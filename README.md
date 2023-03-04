@@ -2,3 +2,6 @@ Bu içerik blakfy.com tarafından hazırlanmış belirli özellikleri test etmek
 
 Owner:
 Lazy and Henker
+
+
+Bu bir test yazısıdır.
