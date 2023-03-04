@@ -6,3 +6,6 @@ Lazy and Henker
 
 Bu bir test yazısıdır.
 test
+test
+test
+test
