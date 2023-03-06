@@ -5,3 +5,4 @@ Lazy and Henker
 
 Bu bir test yazısıdır.
 Henker 123123123
+Lazy 6161
