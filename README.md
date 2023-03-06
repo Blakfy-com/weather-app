@@ -5,6 +5,7 @@ Lazy and Henker
 
 Bu bir test yazısıdır.
 Henker 123123123
+<<<<<<< Updated upstream
 Lazy 6161
 
 
@@ -20,3 +21,6 @@ asdfjmkljasdkl
 
 
 asdkfjklşsdj
+=======
+fskdjlafjdskl
+>>>>>>> Stashed changes
